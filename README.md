@@ -23,8 +23,6 @@
     <img  width="50" alt="Git"  src="./assets/git.png"/>
     <img  width="50" alt="Terminal"  src="./assets/terminal.png"/>
 </div>
-<br/>
-<br/>
 
 ### Connect With Me  
 
