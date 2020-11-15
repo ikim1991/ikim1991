@@ -6,23 +6,23 @@
 - Check out below for more details!
 
 ### My Toolkit  
-
-<img  width="50" alt="Visual Studio Code"  src="./assets/vs.png"/>  
-<img  width="50" alt="HTML"  src="./assets/html.png"/>  
-<img  width="50" alt="CSS"  src="./assets/css.png"/>  
-<img  width="50" alt="JavaScript"  src="./assets/javascript.png"/>  
-<img  width="50" alt="TypeScript"  src="./assets/ts.png"/>  
-<img  width="50" alt="Sass"  src="./assets/sass.png"/>  
-<img  width="50" alt="React"  src="./assets/react.png"/>  
-<img  width="50" alt="Redux"  src="./assets/redux.png"/>  
-<img  width="50" alt="Webpack"  src="./assets/webpack.png"/>  
-<img  width="50" alt="Nodejs"  src="./assets/nodejs.png"/>
-<img  width="50" alt="MongoDB"  src="./assets/mongo.png"/>
-<img  width="50" alt="MySQL"  src="./assets/mysql.png"/>
-<img  width="50" alt="GitHub"  src="./assets/github.png"/>
-<img  width="50" alt="Git"  src="./assets/git.png"/>
-<img  width="50" alt="Terminal"  src="./assets/terminal.png"/>
-
+<div>
+    <img  width="50" alt="Visual Studio Code"  src="./assets/vs.png"/>  
+    <img  width="50" alt="HTML"  src="./assets/html.png"/>  
+    <img  width="50" alt="CSS"  src="./assets/css.png"/>  
+    <img  width="50" alt="JavaScript"  src="./assets/javascript.png"/>  
+    <img  width="50" alt="TypeScript"  src="./assets/ts.png"/>  
+    <img  width="50" alt="Sass"  src="./assets/sass.png"/>  
+    <img  width="50" alt="React"  src="./assets/react.png"/>  
+    <img  width="50" alt="Redux"  src="./assets/redux.png"/>  
+    <img  width="50" alt="Webpack"  src="./assets/webpack.png"/>  
+    <img  width="50" alt="Nodejs"  src="./assets/nodejs.png"/>
+    <img  width="50" alt="MongoDB"  src="./assets/mongo.png"/>
+    <img  width="50" alt="MySQL"  src="./assets/mysql.png"/>
+    <img  width="50" alt="GitHub"  src="./assets/github.png"/>
+    <img  width="50" alt="Git"  src="./assets/git.png"/>
+    <img  width="50" alt="Terminal"  src="./assets/terminal.png"/>
+</div>
 <br/>
 <br/>
 
